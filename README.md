@@ -1,5 +1,9 @@
 # stepik
 Completed courses on the site https://stepik.org
 
-R_basics_antonov https://stepik.org/497
+r_basics
+- https://stepik.org/497
+
+data_analysis_using_R
+- https://stepik.org/129
 
