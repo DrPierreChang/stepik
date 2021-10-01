@@ -1,5 +1,5 @@
 # stepik
-Completed courses on the site https://stepik.org
+Completed courses on https://stepik.org
 
 r_basics
 - https://stepik.org/497
