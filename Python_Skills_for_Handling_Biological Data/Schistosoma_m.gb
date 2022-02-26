@@ -1,0 +1,47 @@
+LOCUS       AF269252                 397 bp    mRNA    linear   INV 26-JUL-2016
+DEFINITION  Schistosoma mansoni anti-inflammatory protein 16 mRNA, partial cds.
+ACCESSION   AF269252
+VERSION     AF269252.1
+KEYWORDS    .
+SOURCE      Schistosoma mansoni
+  ORGANISM  Schistosoma mansoni
+            Eukaryota; Metazoa; Platyhelminthes; Trematoda; Digenea;
+            Strigeidida; Schistosomatoidea; Schistosomatidae; Schistosoma.
+REFERENCE   1  (bases 1 to 397)
+  AUTHORS   Rao,K.V. and Ramaswamy,K.
+  TITLE     Cloning and expression of a gene encoding Sm16, an
+            anti-inflammatory protein from Schistosoma mansoni
+  JOURNAL   Mol. Biochem. Parasitol. 108 (1), 101-108 (2000)
+   PUBMED   10802322
+REFERENCE   2  (bases 1 to 397)
+  AUTHORS   Rao,K. and Ramaswamy,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAY-2000) Biomedical Sciences, University of Illinois
+            College of Medicine at Rockford, 1601 Parkview Avenue, Rockford, IL
+            61107, USA
+FEATURES             Location/Qualifiers
+     source          1..397
+                     /organism="Schistosoma mansoni"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:6183"
+     CDS             <1..264
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="similar to Schistosoma mansoni stathmin-like
+                     protein encoded by GenBank Accession Number AF091509 and
+                     Schistosoma mansoni stage-specific protein SPO-1 encoded
+                     by GenBank Accession Number AF109180"
+                     /codon_start=1
+                      /product="anti-inflammatory protein 16"
+                      /protein_id="AAF75550.1"
+                      /translation="PSEKDMELVYIDAEYEKEGGLKSICNEIKRSFRKGRHHIYKVMD
+             KYIRKEDLGMKMLDVAKILGRRIEKRMEYIAKKLDKMMEYESS"
+ORIGIN
+      1 ccgagtgaaa aagacatgga attagtgtat attgatgcag aatatgaaaa agaaggtgga
+      61 ctgaaatcaa tatgcaacga aataaaacgg tcattcagaa aagggcgcca ccacatctat
+      121 aaagttatgg ataaatatat acggaaggaa gatttaggca tgaaaatgtt agatgttgcc
+      181 aaaatccttg gaagacgcat tgaaaaacgt atggaataca tagcgaagaa actggataag
+      241 atgatggaat atgaatcgtc ttaggtatat tcataacaca atagttaata ttgttgtgga
+      301 tttcagacaa tgcttttttc tgctttttgt ttactacttt cttaatgaat ttgagcaaat
+      361 aataaagatt gatgaaaact caaaaaaaaa aaaaaaa
+ //
